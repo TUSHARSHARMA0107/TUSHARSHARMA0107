@@ -53,8 +53,8 @@ I enjoy designing systems that are:
   <a href="https://www.linkedin.com/in/tushar-sharma-14ab3a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://my-portfolio-beta-eosin-40.vercel.app/ K">
-    <img src="  https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  <a href="https://my-portfolio-beta-eosin-40.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
