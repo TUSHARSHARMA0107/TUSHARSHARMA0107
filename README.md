@@ -1,22 +1,22 @@
-# Hi, I'm Tushar Sharma 👋
+# 👋 Tushar Sharma
 
-### Full Stack Developer • Clean Architecture • Scalable Systems ⚡
+## Full Stack Developer | Clean Systems | Modern Web
 
-**I build clean, scalable, and performance-driven applications** with a strong focus on  
-**backend system design** and **modern, intuitive user interfaces**.
+I design and build **reliable, scalable applications** with a strong emphasis on  
+**clean architecture**, **maintainable code**, and **practical problem solving**.
 
 ---
 
 ## 🧠 About Me
 
 <small>
-I believe great software is built on **clarity, structure, and long-term maintainability** — not just features.
+I focus on building software that stays simple, efficient, and easy to maintain as it grows.
 </small>
 
-- 🧩 **Clean architecture** & readable code as first priority  
-- ⚙️ Preference for **simple, efficient solutions** over over-engineering  
-- 🚀 Strong focus on **performance, reliability, and UX**  
-- 📈 Continuous learning to improve systems and workflows  
+- 🧩 Design systems with **clear structure and logical flow**
+- ⚙️ Prefer **practical, scalable solutions** over unnecessary complexity
+- 🚀 Care about **performance, stability, and user experience**
+- 📈 Continuously improve through learning and refinement
 
 ---
 
@@ -29,7 +29,7 @@ I believe great software is built on **clarity, structure, and long-term maintai
 
 ### 🎨 Frontend
 - **React.js**
-- **HTML5, CSS3**
+- **HTML, CSS**
 - **Tailwind CSS**
 
 ### 🔧 Backend
@@ -51,11 +51,11 @@ I believe great software is built on **clarity, structure, and long-term maintai
 
 ## 🎯 Current Focus
 
-- 🏗 **Scalable backend architectures**
-- 🔌 **Production-ready APIs**
-- 🧪 **Maintainable & testable code**
-- ⚡ **Performance optimization**
-- 🔁 **End-to-end full stack systems**
+- Designing **scalable backend systems**
+- Building **production-ready APIs**
+- Writing **clean, maintainable code**
+- Improving **application performance**
+- Developing **end-to-end full stack solutions**
 
 ---
 
@@ -70,9 +70,9 @@ University Institute of Technology, HPU Shimla
 ## 📬 Contact
 
 - 📧 **Email:** tushar43189@gmail.com  
-- 💼 **LinkedIn:** _(add link)_  
-- 🌐 **Portfolio:** _(add link)_  
+- 💼 **LinkedIn:**_(https://www.linkedin.com/in/tushar-sharma-14ab3a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)_  
+- 🌐 **Portfolio:** _(https://my-portfolio-beta-eosin-40.vercel.app/)_  
 
 ---
 
-<sub>✨ “Clean code, thoughtful design, and meaningful software.”</sub>
+<sub>Clean code. Thoughtful systems. Meaningful software.</sub>
