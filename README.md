@@ -35,7 +35,7 @@ I focus on building software that stays simple, efficient, and easy to maintain 
 ### 🔧 Backend
 - **Node.js**
 - **Express.js**
-- **Spring Boot**
+
 
 ### 🗄 Databases
 - **PostgreSQL**
